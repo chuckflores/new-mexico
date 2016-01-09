@@ -152,15 +152,12 @@ th {
 
 body {
   color: #333;
-  font-family: "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
   -webkit-font-feature-settings: "kern", "liga", "pnum";
           font-feature-settings: "kern", "liga", "pnum";
   font-size: 1em;
   line-height: 1.5; }
 
 h1,
-h2,
-h3,
 h4,
 h5,
 h6 {
@@ -168,6 +165,22 @@ h6 {
   font-size: 1em;
   line-height: 1.2;
   margin: 0 0 0.75em; }
+
+h2 {
+  color: #333;
+  font-size: 2em;
+  font-family: "freight-display-pro",sans-serif; }
+
+.h2-white {
+  font-family: "freight-display-pro",sans-serif;
+  color: #ffffff;
+  line-height: 1.4em; }
+
+h3 {
+  font-family: "bebas-neue",sans-serif;
+  font-size: 2em;
+  letter-spacing: 2px;
+  color: #ffffff; }
 
 p {
   margin: 0 0 0.75em; }
@@ -179,6 +192,15 @@ a {
   transition: color 150ms ease; }
   a:active, a:focus, a:hover {
     color: #355e98; }
+
+nav ul a {
+  color: #ffffff;
+  font-family: "freight-sans-pro",sans-serif;
+  font-size: 0.85em;
+  letter-spacing: 1px;
+  font-weight: 400;
+  font-style: normal;
+  text-transform: uppercase; }
 
 hr {
   border-bottom: 1px solid #ddd;
@@ -192,6 +214,17 @@ picture {
   margin: 0;
   max-width: 100%; }
 
+@media only screen and (max-width: 780px) {
+  nav ul a {
+    color: #333;
+    font-family: "freight-sans-pro",sans-serif;
+    font-size: 0.7em;
+    letter-spacing: 1px;
+    text-transform: uppercase; }
+
+  .h2-white {
+    font-size: 1.2em;
+    line-height: 1.2em; } }
 body {
   margin: 0; }
 
@@ -220,9 +253,8 @@ header {
 header img {
   color: white;
   text-align: left;
-  font-size: 27px;
   line-height: 60px;
-  padding-top: 5px;
+  padding-top: 7px;
   padding-left: 16px; }
 
 .burger {
@@ -250,8 +282,6 @@ nav li {
   float: left; }
 
 nav li a {
-  font-size: 11px;
-  color: #333;
   padding: 24px 15px;
   display: block; }
 
@@ -295,8 +325,7 @@ nav li a:hover {
 
   nav li a {
     padding: 22px 25px;
-    letter-spacing: 3px;
-    font-size: 14px; }
+    letter-spacing: 3px; }
 
   nav li a.logo {
     display: none; }
@@ -612,9 +641,15 @@ nav {
     text-align: center;
     top: 50%;
     z-index: 999;
-    width: 100%; }
+    line-height: 2em; }
     .image-gradient-dynamic .home-about__copy p {
       color: white;
       line-height: 1.5em;
       padding: 1em 2em;
       position: relative; }
+
+@media only screen and (max-width: 780px) {
+  .home-about__copy {
+    padding-left: 16px;
+    padding-right: 16px;
+    width: 100%; } }

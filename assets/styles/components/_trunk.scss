@@ -35,9 +35,9 @@ header {
 header img {
 	color: white;
 	text-align: left;
-	font-size: 27px;
+
 	line-height: 60px;
-	padding-top: 5px;
+	padding-top: 7px;
 	padding-left: 16px;
 
 }
@@ -69,8 +69,8 @@ nav li {
 }
 
 nav li a {
-	font-size: 11px;
-	color: $dark-gray;
+	// font-size: 11px;
+	// color: $dark-gray;
 	padding: 24px 15px;
 
 	display: block;
@@ -127,7 +127,8 @@ nav li {
 nav li a {
 	padding: 22px 25px;
 	letter-spacing: 3px;
-	font-size: 14px;
+
+	// font-size: 14px;
 }
 nav li a.logo {
 	display: none;
