@@ -21,8 +21,8 @@ button, input[type="button"], input[type="reset"], input[type="submit"] {
   line-height: 1;
   padding: 0.75em 1.5em;
   text-decoration: none;
-  -webkit-transition: background-color 150ms ease;
-  transition: background-color 150ms ease;
+  -webkit-transition: background-color 300ms ease;
+  transition: background-color 300ms ease;
   -webkit-user-select: none;
      -moz-user-select: none;
       -ms-user-select: none;
@@ -70,8 +70,8 @@ select[multiple=multiple] {
   font-size: 1em;
   margin-bottom: 0.75em;
   padding: 0.5em;
-  -webkit-transition: border-color 150ms ease;
-  transition: border-color 150ms ease;
+  -webkit-transition: border-color 300ms ease;
+  transition: border-color 300ms ease;
   width: 100%; }
   input[type="color"]:hover, input[type="date"]:hover, input[type="datetime"]:hover, input[type="datetime-local"]:hover, input[type="email"]:hover, input[type="month"]:hover, input[type="number"]:hover, input[type="password"]:hover, input[type="search"]:hover, input[type="tel"]:hover, input[type="text"]:hover, input[type="time"]:hover, input[type="url"]:hover, input[type="week"]:hover, input:not([type]):hover, textarea:hover,
   select[multiple=multiple]:hover {
@@ -158,7 +158,6 @@ body {
   line-height: 1.5; }
 
 h1,
-h4,
 h5,
 h6 {
   font-family: "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
@@ -169,7 +168,8 @@ h6 {
 h2 {
   color: #333;
   font-size: 2em;
-  font-family: "freight-display-pro",sans-serif; }
+  font-family: "freight-display-pro",sans-serif;
+  margin: 0; }
 
 .h2-white {
   font-family: "freight-display-pro",sans-serif;
@@ -182,21 +182,30 @@ h3 {
   letter-spacing: 2px;
   color: #ffffff; }
 
+h4 {
+  font-family: "freight-display-pro",sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 2em;
+  margin: 0; }
+
 p {
-  margin: 0 0 0.75em; }
+  margin: 0 0 0.75em;
+  font-family: "freight-text-pro",serif;
+  font-size: 1em; }
 
 a {
   color: #477dca;
   text-decoration: none;
-  -webkit-transition: color 150ms ease;
-  transition: color 150ms ease; }
+  -webkit-transition: color 300ms ease;
+  transition: color 300ms ease; }
   a:active, a:focus, a:hover {
     color: #355e98; }
 
 nav ul a {
   color: #ffffff;
-  font-family: "freight-sans-pro",sans-serif;
-  font-size: 0.85em;
+  font-family: "freight-display-pro",sans-serif;
+  font-size: 0.75em;
   letter-spacing: 1px;
   font-weight: 400;
   font-style: normal;
@@ -223,10 +232,11 @@ picture {
     text-transform: uppercase; }
 
   .h2-white {
-    font-size: 1.2em;
+    font-size: 1em;
     line-height: 1.2em; } }
 body {
-  margin: 0; }
+  margin: 0;
+  background-color: #ffffff; }
 
 body {
   -webkit-tap-highlight-color: transparent;
@@ -544,6 +554,86 @@ nav {
     -webkit-flex-direction: column;
         -ms-flex-direction: column;
             flex-direction: column; } }
+section img {
+  width: 50%; }
+
+.s-blog-section {
+  background-color: #FFFADD;
+  height: 320px;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  position: relative; }
+  .s-blog-section::after {
+    clear: both;
+    content: "";
+    display: table; }
+  .s-blog-section h2 {
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); }
+
+.two-column-photo {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row; }
+
+.s-text-entry {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto; }
+  .s-text-entry::after {
+    clear: both;
+    content: "";
+    display: table; }
+
+.text-normal {
+  float: left;
+  display: block;
+  margin-right: 2.3576515979%;
+  width: 48.821174201%;
+  margin-left: 25.5894128995%;
+  padding-top: 6em;
+  padding-bottom: 6em; }
+  .text-normal:last-child {
+    margin-right: 0; }
+
+@media only screen and (max-width: 780px) {
+  .two-column-photo {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column; }
+
+  section img {
+    width: 100%; }
+
+  .text-normal {
+    float: left;
+    display: block;
+    margin-right: 2.3576515979%;
+    width: 100%;
+    margin-left: 0%;
+    padding-left: 1em;
+    padding-right: 1em; }
+    .text-normal:last-child {
+      margin-right: 0; } }
 .image-home-nav {
   line-height: 0;
   position: relative;

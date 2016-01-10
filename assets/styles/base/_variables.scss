@@ -24,6 +24,9 @@ $light-gray: #ddd;
 
 // Brand Colors
 $teal: #11BFB9;
+$red: #BF331B;
+$yellow: #FFE44C;
+$tan: #FFFADD;
 
 // Font Colors
 $base-font-color: $dark-gray;
@@ -42,5 +45,5 @@ $form-box-shadow: inset 0 1px 3px rgba(#000, 0.06);
 $form-box-shadow-focus: $form-box-shadow, 0 0 5px adjust-color($action-color, $lightness: -5%, $alpha: -0.3);
 
 // Animations
-$base-duration: 150ms;
+$base-duration: 300ms;
 $base-timing: ease;
