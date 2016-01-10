@@ -313,7 +313,8 @@ nav li a:hover {
     transform: translate3d(0, 0, 0); }
 
   header img {
-    text-align: center; }
+    text-align: center;
+    padding-left: 0; }
 
   img {
     text-align: center; }
@@ -554,6 +555,9 @@ nav {
     -webkit-flex-direction: column;
         -ms-flex-direction: column;
             flex-direction: column; } }
+.body-section {
+  background-color: #ffffff; }
+
 section img {
   width: 50%; }
 
@@ -569,7 +573,7 @@ section img {
     clear: both;
     content: "";
     display: table; }
-  .s-blog-section h2 {
+  .s-blog-section .s-blog-section-content {
     margin: auto;
     position: absolute;
     top: 50%;
@@ -577,6 +581,10 @@ section img {
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%); }
+  .s-blog-section h2 {
+    margin-bottom: 0.6em; }
+  .s-blog-section .icn-blog-section-icons {
+    width: 48px; }
 
 .two-column-photo {
   display: -webkit-box;
@@ -588,6 +596,16 @@ section img {
   -webkit-flex-direction: row;
       -ms-flex-direction: row;
           flex-direction: row; }
+
+.one-column-photo {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center; }
+  .one-column-photo::after {
+    clear: both;
+    content: "";
+    display: table; }
 
 .s-text-entry {
   max-width: 1000px;
@@ -608,6 +626,31 @@ section img {
   padding-bottom: 6em; }
   .text-normal:last-child {
     margin-right: 0; }
+
+.blog-spacer {
+  height: 12em;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  position: relative; }
+  .blog-spacer::after {
+    clear: both;
+    content: "";
+    display: table; }
+  .blog-spacer .blog-spacer-content {
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); }
+    .blog-spacer .blog-spacer-content .blog-line {
+      width: 16em;
+      height: 1px;
+      background: #333;
+      opacity: 0.6; }
 
 @media only screen and (max-width: 780px) {
   .two-column-photo {
@@ -633,7 +676,10 @@ section img {
     padding-left: 1em;
     padding-right: 1em; }
     .text-normal:last-child {
-      margin-right: 0; } }
+      margin-right: 0; }
+
+  .blog-spacer {
+    margin-bottom: 3em; } }
 .image-home-nav {
   line-height: 0;
   position: relative;
