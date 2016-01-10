@@ -97,7 +97,7 @@
 		"outputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_3056.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/images\/santa-fe\/IMG_3060.jpg": {
 		"fileType": 16384,
@@ -108,7 +108,7 @@
 		"outputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_3060.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/images\/santa-fe\/IMG_7981.jpg": {
 		"fileType": 16384,
@@ -119,7 +119,7 @@
 		"outputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_7981.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/images\/santa-fe\/IMG_7985.jpg": {
 		"fileType": 16384,
@@ -130,7 +130,7 @@
 		"outputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_7985.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/images\/sections\/section-home-about.jpg": {
 		"fileType": 16384,
@@ -152,7 +152,7 @@
 		"outputAbbreviatedPath": "\/assets\/images\/titles\/title-albuquerque.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/images\/titles\/title-home.jpg": {
 		"fileType": 16384,
@@ -174,7 +174,7 @@
 		"outputAbbreviatedPath": "\/assets\/images\/titles\/title-road-trip.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/images\/titles\/title-santa-fe.jpg": {
 		"fileType": 16384,
@@ -196,7 +196,7 @@
 		"outputAbbreviatedPath": "\/assets\/images\/titles\/title-tent-rocks.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/images\/titles\/title-truth.jpg": {
 		"fileType": 16384,
@@ -207,7 +207,7 @@
 		"outputAbbreviatedPath": "\/assets\/images\/titles\/title-truth.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/images\/titles\/title-white-sands.jpg": {
 		"fileType": 16384,
@@ -218,7 +218,7 @@
 		"outputAbbreviatedPath": "\/assets\/images\/titles\/title-white-sands.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/js\/html5shiv.js": {
 		"fileType": 64,
