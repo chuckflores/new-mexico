@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="114px" height="85px" viewBox="0 0 114 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+<svg width="115px" height="38px" viewBox="0 0 115 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
-    <title>icon-places</title>
+    <title>Rectangle 8</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="icon-places" sketch:type="MSLayerGroup" transform="translate(1.000000, 1.000000)" stroke="#BF331B" stroke-width="2">
-            <rect id="Rectangle-3" sketch:type="MSShapeGroup" x="18" y="26" width="75" height="58"></rect>
-            <path d="M0.5,29.5 L55.5,0.5" id="Line" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
-            <path d="M56.5,29.5 L111.5,0.5" id="Line-Copy-3" stroke-linecap="square" sketch:type="MSShapeGroup" transform="translate(84.000000, 15.000000) scale(-1, 1) translate(-84.000000, -15.000000) "></path>
-        </g>
+        <path d="M64.9766594,14.3786797 L57.2088924,22.1464466 L50.623106,15.5606602 L58.390873,7.79289322 L64.9766594,14.3786797 Z M66.390873,12.9644661 L79.3553391,7.10542736e-15 L79.390873,0.0355339059 L79.4264069,3.55271368e-15 L114.781746,35.3553391 L113.367532,36.7695526 L79.390873,2.79289322 L45.4142136,36.7695526 L44,35.3553391 L55.7946789,23.5606602 L35.390873,3.15685425 L1.41421356,37.1335137 L-7.81597009e-14,35.7193001 L35.3553391,0.363961031 L35.390873,0.399494937 L35.4264069,0.363961031 L49.2088924,14.1464466 L58.3553391,5 L58.390873,5.03553391 L58.4264069,5 L66.390873,12.9644661 Z M76.2910789,18.6121607 L76.644666,18.9658154 L76.9982532,18.6121607 L80.7635635,14.8924275 L86.7183351,20.8483367 L87.0719223,21.2019914 L87.4255095,20.8483367 L91.6735621,16.5994725 L90.9663877,15.8924333 L87.0934841,19.8092087 L81.0940069,13.8085853 L80.7404197,13.4549306 L80.3868326,13.8085853 L76.663747,17.5705514 L71.4535627,12.3593718 L70.7463884,13.066411 L76.2910789,18.6121607 Z M29.9024031,16.7625395 L30.2559564,17.1160929 L30.6095098,16.7625395 L34.7961859,12.6241487 L42.4860894,20.3140523 L42.8396428,20.6676057 L43.1931962,20.3140523 L46.9557828,16.5514657 L46.248676,15.8443589 L42.8529326,19.2666818 L35.1255966,11.5393459 L34.7720433,11.1857925 L34.4184899,11.5393459 L30.265282,15.7112049 L27.3535534,12.7994763 L26.6464466,13.5065831 L29.9024031,16.7625395 Z" id="Rectangle-8" fill="#BF331B" sketch:type="MSShapeGroup"></path>
     </g>
 </svg>

@@ -4,6 +4,7 @@
 
 section img{
   width: 50%;
+  height:50%;
 }
 
 .s-blog-section {
@@ -50,8 +51,15 @@ section img{
 .text-normal {
  @include span-columns (6);
  @include shift (3);
- padding-top: 6em;
+ padding-top: 5em;
  padding-bottom: 6em;
+}
+
+.text-normal-no-padding-bottom {
+ @include span-columns (6);
+ @include shift (3);
+ padding-top: 5em;
+ padding-bottom: 0em;
 }
 
 .blog-spacer {
@@ -101,6 +109,6 @@ section img{
     }
 
     .blog-spacer {
-      margin-bottom: 3em;
+      margin-bottom: 1em;
     }
 }

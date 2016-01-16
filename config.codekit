@@ -77,6 +77,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/assets\/images\/icons\/icons-places.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1677,
+		"inputAbbreviatedPath": "\/assets\/images\/icons\/icons-places.png",
+		"outputAbbreviatedPath": "\/assets\/images\/icons\/icons-places.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/images\/logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -84,6 +95,17 @@
 		"initialSize": 2657,
 		"inputAbbreviatedPath": "\/assets\/images\/logo.png",
 		"outputAbbreviatedPath": "\/assets\/images\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/assets\/images\/santa-fe\/IMG_2949.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 404506,
+		"inputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_2949.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_2949.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
@@ -132,6 +154,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/assets\/images\/santa-fe\/IMG_3028.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 517496,
+		"inputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_3028.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_3028.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/assets\/images\/santa-fe\/IMG_3035.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 508322,
+		"inputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_3035.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_3035.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/assets\/images\/santa-fe\/IMG_3056.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -161,6 +205,17 @@
 		"initialSize": 4.28861e+06,
 		"inputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_3067.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_3067.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/assets\/images\/santa-fe\/IMG_3075.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 746580,
+		"inputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_3075.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_3075.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
@@ -198,6 +253,116 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/assets\/images\/santa-fe\/IMG_3153.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 318715,
+		"inputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_3153.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_3153.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/assets\/images\/santa-fe\/IMG_7583.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 834392,
+		"inputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_7583.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_7583.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/assets\/images\/santa-fe\/IMG_7892.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 453715,
+		"inputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_7892.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_7892.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/assets\/images\/santa-fe\/IMG_7908.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 413546,
+		"inputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_7908.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_7908.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/assets\/images\/santa-fe\/IMG_7915.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 437707,
+		"inputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_7915.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_7915.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/assets\/images\/santa-fe\/IMG_7925.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 649702,
+		"inputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_7925.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_7925.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/assets\/images\/santa-fe\/IMG_7967.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 418689,
+		"inputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_7967.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_7967.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/assets\/images\/santa-fe\/IMG_7971.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 427259,
+		"inputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_7971.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_7971.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/assets\/images\/santa-fe\/IMG_7974.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 454627,
+		"inputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_7974.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_7974.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/assets\/images\/santa-fe\/IMG_7976.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 445209,
+		"inputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_7976.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_7976.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/assets\/images\/santa-fe\/IMG_7981.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -220,6 +385,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/assets\/images\/santa-fe\/IMG_7994.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 529161,
+		"inputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_7994.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_7994.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/assets\/images\/santa-fe\/IMG_7997.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -231,6 +407,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/assets\/images\/santa-fe\/IMG_8001.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 450954,
+		"inputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_8001.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_8001.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/assets\/images\/santa-fe\/IMG_8027.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 449090,
+		"inputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_8027.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_8027.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/assets\/images\/santa-fe\/IMG_8030.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -238,6 +436,17 @@
 		"initialSize": 6.04302e+06,
 		"inputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_8030.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_8030.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/assets\/images\/santa-fe\/IMG_8048.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 500305,
+		"inputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_8048.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/santa-fe\/IMG_8048.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
@@ -591,6 +800,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/styles\/components\/_images.scss",
 		"outputAbbreviatedPath": "\/assets\/styles\/css\/_images.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/styles\/components\/_list.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/styles\/components\/_list.scss",
+		"outputAbbreviatedPath": "\/assets\/styles\/css\/_list.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -2268,7 +2493,7 @@
 		"outputPathIsSetByUser": 1,
 		"outputStyle": 0,
 		"shouldRunAutoprefixer": 1,
-		"shouldRunBless": 0,
+		"shouldRunBless": 1,
 		"useLibsass": 0
 		},
 	"\/index.html": {

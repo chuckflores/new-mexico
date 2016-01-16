@@ -65,6 +65,15 @@ a {
   }
 }
 
+.image-home-nav {
+  a:hover {
+    transition: opacity $base-duration $base-timing;
+    opacity: 0.8;
+  }
+}
+
+
+
 nav ul a {
   color: $white;
   // font-family: "freight-micro-pro",serif;
