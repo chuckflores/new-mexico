@@ -1,0 +1,39 @@
+.image-block{
+  @include outer-container;
+
+}
+
+.image-1-pic {
+  @include span-columns(6);
+  padding-top: 1em;
+  padding-bottom: 1em;
+  img {
+    width: 100%;
+  }
+}
+
+
+.shift-3 {
+  @include shift(3);
+}
+
+.image-full-pic {
+  @include span-columns(12);
+  padding-top: 1em;
+  padding-bottom: 1em;
+  img {
+    width: 100%;
+  }
+  }
+
+
+@media only screen and (max-width: 780px) {
+ .image-1-pic {
+  @include span-columns(12);
+  }
+
+  .shift-3 {
+    @include shift(0);
+  }
+}
+

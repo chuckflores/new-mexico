@@ -2,7 +2,6 @@
   background-color: $teal;
   @include outer-container (100%);
   height: 60px;
-
 }
 
 .c-header-container__inside {
@@ -10,9 +9,6 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-
-  // background-color: $blue;
-
 }
 
 nav {
