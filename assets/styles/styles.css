@@ -209,11 +209,6 @@ a {
   a:active, a:focus, a:hover {
     color: #aac3e7; }
 
-.image-home-nav a:hover {
-  -webkit-transition: opacity 300ms ease;
-  transition: opacity 300ms ease;
-  opacity: 0.8; }
-
 nav ul a {
   color: #ffffff;
   font-family: "freight-display-pro",sans-serif;
@@ -545,6 +540,16 @@ nav {
     content: "";
     display: table; }
 
+@media only screen and (max-width: 780px) {
+  .c-home-nav-row {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column; } }
+.body-section {
+  background-color: #ffffff; }
+
 .c-home-nav-row {
   max-width: 100%;
   margin-left: auto;
@@ -563,15 +568,13 @@ nav {
     content: "";
     display: table; }
 
-@media only screen and (max-width: 780px) {
-  .c-home-nav-row {
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -webkit-flex-direction: column;
-        -ms-flex-direction: column;
-            flex-direction: column; } }
-.body-section {
-  background-color: #ffffff; }
+.home-nav-link {
+  -webkit-transition: opacity 300ms ease;
+  transition: opacity 300ms ease;
+  opacity: 1; }
+
+.home-nav-link:hover {
+  opacity: 0.8; }
 
 .s-blog-section {
   background-color: #FFFADD;
@@ -721,6 +724,11 @@ nav {
       line-height: 1.5em;
       padding: 1em 2em;
       position: relative; }
+
+.image-home-nav:hover {
+  -webkit-transition: opacity 300ms ease;
+  transition: opacity 300ms ease;
+  opacity: 0.8; }
 
 @media only screen and (max-width: 780px) {
   .image-home-nav {
@@ -890,8 +898,8 @@ nav {
   display: block;
   margin-right: 2.3576515979%;
   width: 48.821174201%;
-  padding-top: 1em;
-  padding-bottom: 1em; }
+  padding-top: 0.5em;
+  padding-bottom: 0.5em; }
   .image-1-pic:last-child {
     margin-right: 0; }
   .image-1-pic img {
@@ -905,8 +913,8 @@ nav {
   display: block;
   margin-right: 2.3576515979%;
   width: 100%;
-  padding-top: 1em;
-  padding-bottom: 1em; }
+  padding-top: 0.5em;
+  padding-bottom: 0.5em; }
   .image-full-pic:last-child {
     margin-right: 0; }
   .image-full-pic img {

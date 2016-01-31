@@ -2,6 +2,22 @@
   background-color: $white;
 }
 
+
+.c-home-nav-row {
+  @include outer-container (100%);
+  display: flex;
+  flex-direction: row;
+}
+
+          .home-nav-link {
+            transition: opacity $base-duration $base-timing;
+            opacity: 1;
+          }
+
+          .home-nav-link:hover {
+            opacity: 0.8;
+          }
+
 .s-blog-section {
   background-color: $tan;
   // height: 204px;

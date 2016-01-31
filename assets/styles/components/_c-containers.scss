@@ -20,11 +20,7 @@ nav {
   @include outer-container (100%);
 }
 
-.c-home-nav-row {
-  @include outer-container (100%);
-  display: flex;
-  flex-direction: row;
-}
+
 
 
 @media only screen and (max-width: 780px) {

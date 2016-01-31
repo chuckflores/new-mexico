@@ -77,6 +77,11 @@
   // }
 }
 
+.image-home-nav:hover {
+    transition: opacity $base-duration $base-timing;
+    opacity: 0.8;
+}
+
 
 @media only screen and (max-width: 780px) {
   .image-home-nav {

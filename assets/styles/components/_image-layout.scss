@@ -5,8 +5,8 @@
 
 .image-1-pic {
   @include span-columns(6);
-  padding-top: 1em;
-  padding-bottom: 1em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
   img {
     width: 100%;
   }
@@ -19,8 +19,8 @@
 
 .image-full-pic {
   @include span-columns(12);
-  padding-top: 1em;
-  padding-bottom: 1em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
   img {
     width: 100%;
   }
