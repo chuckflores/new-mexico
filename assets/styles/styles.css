@@ -251,8 +251,8 @@ picture {
 
 @media only screen and (max-width: 780px) {
   nav ul a {
-    color: #333;
-    font-family: "freight-sans-pro",serif;
+    color: #ffffff;
+    font-family: "freight-display-pro",serif;
     font-size: 0.7em;
     letter-spacing: 1px;
     text-transform: uppercase; }
@@ -368,7 +368,7 @@ nav li a {
     display: none; }
 
   nav li a:hover {
-    background-color: #ffffff; }
+    background-color: #11BFB9; }
 
   nav li:first-child a.active,
   nav li:first-child a:hover {
@@ -385,7 +385,7 @@ nav li a {
     left: 0;
     top: 0;
     margin: 0;
-    background-color: #ffffff;
+    background-color: #11BFB9;
     border-radius: 0px;
     /* starting point */
     opacity: .3;
