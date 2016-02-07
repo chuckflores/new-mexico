@@ -625,7 +625,7 @@ nav {
     display: inline;
     float: left; }
   .s-blog-section .section-line-left-bottom {
-    max-width: 360px;
+    margin-right: 48px;
     margin-top: 4px;
     background-color: #BF331B;
     height: 1px; }
@@ -636,6 +636,11 @@ nav {
     height: 1px;
     display: inline;
     float: left; }
+  .s-blog-section .section-line-right-bottom {
+    margin-top: 4px;
+    background-color: #BF331B;
+    height: 1px;
+    margin-left: 48px; }
   .s-blog-section .s-blog-section-content {
     padding-top: 0em;
     display: inline;
