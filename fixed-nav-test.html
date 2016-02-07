@@ -13,24 +13,43 @@
   <script>try{Typekit.load({ async: true });}catch(e){}</script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 
+  <script src="js/responsive-nav.js"></script>
+
 
 </head>
 
 <body>
+  <header>
+      <a href="#home" class="logo" data-scroll>Fixed Nav</a>
+      <nav class="nav-collapse">
+        <ul>
+          <li class="menu-item active"><a href="santa-fe.html" data-scroll>Santa Fe</a></li>
+          <li class="menu-item"><a href="tent-rocks.html" data-scroll>Tent Rocks</a></li>
+          <li class="menu-item"><a href="road-trip.html" data-scroll>Raod Trip</a></li>
+          <li class="menu-item"><a href="white-sands.html" data-scroll>White Sands</a></li>
+          <li class="menu-item"><a href="truth-or-consequences.html" data-scroll>Truth or Consequences</a></li>
+          <li class="menu-item"><a href="albuquerque.html" data-scroll>Albuquerque</a></li>
+        </ul>
+      </nav>
+    </header>
+
+
+
+
+
   <div class="container">
 
-    <div class="c-header-container">
+    <!-- <div class="c-header-container">
       <div class="c-header-container__inside">
-        <header class="slide">     <!-- Add "slideRight" class to items that move right when viewing Nav Drawer  -->
-          <ul id="navToggle" class="burger slide">    <!--  Add "slideRight" class to items that move right when viewing Nav Drawer  -->
+        <header class="slide">
+          <ul id="navToggle" class="burger slide">
             <li></li><li></li><li></li>
           </ul>
-          <a href="index.html"><img src="assets/images/logo.png" class="logo"></a>
+          <a href="index.html"><img src="assets/images/logo.png"></a>
         </header>
 
         <nav class="slide">
           <ul>
-            <li><a href="fixed-nav-test.html" class="active">Fixed Nav</a></li>
             <li><a href="santa-fe.html" class="active">Santa Fe</a></li>
             <li><a href="tent-rocks.html">Tent Rocks</a></li>
             <li><a href="road-trip.html">Road Trip</a></li>
@@ -42,7 +61,7 @@
           </ul>
         </nav>
       </div>
-    </div>
+    </div> -->
 
     <div class="content slide">     <!--  Add "slideRight" class to items that move right when viewing Nav Drawer  -->
       <ul class="responsive">

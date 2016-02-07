@@ -41,6 +41,16 @@
     height: 1px;
     display: inline;
     float: left;
+
+  }
+
+  .section-line-left-bottom {
+    max-width: 360px;
+    margin-top: 4px;
+    background-color: $red;
+    height: 1px;
+    // padding-left: 16%;
+
   }
 
   .section-line-right {
@@ -69,40 +79,8 @@
   }
 }
 
-.next-page-container {
-  background-color: $tan;
-  @include outer-container (100%);
-  text-align: center;
-  padding-top: 3em;
-  padding-bottom: 3em;
 
-  a {
-    color: $red;
-    font-size: 1.4em;
-  }
 
-}
-
-.next-page-inner-container {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  // @include span-columns(12);
-}
-
-.next-page-left {
-  display: inline;
-  padding-left: 1em;
-}
-
-.next-page-center {
-  display: inline;
-}
-
-.next-page-right {
-  display: inline;
-  padding-right: 1em;
-}
 
 
 

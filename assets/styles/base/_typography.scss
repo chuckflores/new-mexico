@@ -18,27 +18,27 @@ h6 {
 h2 {
   color: $red;
   font-size: 3.4em;
-  font-family: "freight-display-pro",sans-serif;
+  font-family: "freight-display-pro",serif;
   margin: 0;
 }
 
 .h2-white {
-  font-family: "freight-display-pro",sans-serif;
+  font-family: "freight-display-pro",serif;
   font-size: 2em;
   color: $white;
   line-height: 1.4em;
 }
 
 h3 {
-  font-family: "bebas-neue",sans-serif;
+  font-family: "bebas-neue",serif;
   font-size: 2em;
   letter-spacing: 2px;
   color: $white;
 }
 
 h4 {
-  color: $red;
-  font-family: "freight-display-pro",sans-serif;
+  color: $dark-gray;
+  font-family: "freight-display-pro",serif;
   font-weight: 500;
   font-style: normal;
   font-size: 2em;
@@ -76,13 +76,15 @@ a {
 nav ul a {
   color: $white;
   // font-family: "freight-micro-pro",serif;
-  font-family: "freight-display-pro",sans-serif;
+  font-family: "freight-display-pro",serif;
   font-size: 0.75em;
   letter-spacing: 1px;
   font-weight: 400;
   font-style: normal;
   text-transform: uppercase;
 }
+
+nav li a:hover {color: $light-gray;}
 
 hr {
   border-bottom: $base-border;
@@ -99,10 +101,29 @@ picture {
 }
 
 
+.text-bottom-nav-1 {
+  font-family: "freight-display-pro",serif;
+  font-size: 36px;
+  color: $red;
+  line-height: 22px;
+  margin-top: 0;
+}
+
+.text-bottom-nav-2 {
+  font-family: "freight-display-pro",serif;
+  font-size: 11px;
+  color: $red;
+  letter-spacing: 1.1px;
+  line-height: 0px;
+  margin-bottom: 0;
+  text-transform: uppercase;
+}
+
+
 @media only screen and (max-width: 780px) {
   nav ul a {
     color: $dark-gray;
-    font-family: "freight-sans-pro",sans-serif;
+    font-family: "freight-sans-pro",serif;
     font-size: 0.7em;
     letter-spacing: 1px;
     text-transform: uppercase;
